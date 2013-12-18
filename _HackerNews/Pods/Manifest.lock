@@ -1,0 +1,13 @@
+PODS:
+  - JSONModel (0.10.0)
+  - MBProgressHUD (0.8)
+
+DEPENDENCIES:
+  - JSONModel
+  - MBProgressHUD
+
+SPEC CHECKSUMS:
+  JSONModel: cecca3c3a9ee1a248b56f7139e2d64b85ce536ec
+  MBProgressHUD: 2bbc6f470111daf7f3eaa4eb12b8cbf01c4c0622
+
+COCOAPODS: 0.28.0
